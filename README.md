@@ -16,7 +16,7 @@ Acciones a realizar:
 
 2 - pagina de eleccion de cotizaciones 
 
-3 - 3 paginas diferentes en donde se pueden cotizar impresiones, cuadernos o stickers 
+3 - 3 opciones diferentes en donde se pueden cotizar impresiones, cuadernos o stickers 
 
 4 - cotizar impresiones: 
 
