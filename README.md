@@ -4,7 +4,7 @@ Integrantes : Denise Valdés,
               Sebastian Benavides 
               
 Alcance:
-Diseñar un software en el cual se puedan hacer cotizaciones de impresiones, cuadernos personalizados y stickers, estas cotizaciones se pueden guardar y visualizar 
+Diseñar un software en el cual se puedan hacer cotizaciones de impresiones, cuadernos personalizados y stickers, estas cotizaciones se pueden guardar y visualizar para la asignatura de programaci ́on 1 de la carrera de Ingenieria Civil en Bioinformatica 
 
 Actores:
 emprendedor
